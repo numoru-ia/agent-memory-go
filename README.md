@@ -1,3 +1,5 @@
+> Read the full article on Numoru: https://numoru.com/en/contributions/langfuse-redis-memoria-agentes
+
 # agent-memory-go
 
 Go library implementing the **tiered memory pattern** for LLM agents:
